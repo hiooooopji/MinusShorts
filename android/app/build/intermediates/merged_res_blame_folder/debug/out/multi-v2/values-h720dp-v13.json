@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.youtube.browser.app-mergeDebugResources-31:/values-h720dp-v13/values-h720dp-v13.xml",
+            "map": [
+                {
+                    "source": "/home/siddharth/.gradle/caches/8.8/transforms/ee40f254e726495da45f9c5741fac472/transformed/appcompat-1.6.1/res/values-h720dp-v13/values-h720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        }
+    ]
+}

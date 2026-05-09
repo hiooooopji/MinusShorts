@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.youtube.browser.app-mergeDebugResources-31:/values-h320dp-port-v13/values-h320dp-port-v13.xml",
+            "map": [
+                {
+                    "source": "/home/siddharth/.gradle/caches/8.8/transforms/d7a5b36558d2e7882c7c6ecd5aaa6f39/transformed/material-1.11.0/res/values-h320dp-port-v13/values-h320dp-port-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "63",
+                        "endOffsets": "114"
+                    }
+                }
+            ]
+        }
+    ]
+}
